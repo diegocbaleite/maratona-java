@@ -1,7 +1,7 @@
 package academy.maratona.javacore.introducaoclasses.dominio;
 
 public class Estudante {
-    public String nome;
+    public String nome = "Zoro";
     public int idade;
     public char sexo;
 }
