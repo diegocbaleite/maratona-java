@@ -16,8 +16,16 @@ public class Aula08ArraysMultidimensionais01 {
 
         for (int i = 0; i < dias.length; i++) {
             for (int j = 0; j < dias[i].length; j++) {
-                System.out.print(dias[i][j] + " ");
+                System.out.println(dias[i][j]);
             }
         }
+        System.out.println("-------------------------------------");
+
+        for (int[] arrbase : dias) {
+            for (int num : arrbase) {
+                System.out.println(num);
+            }
+        }
+
     }
 }
