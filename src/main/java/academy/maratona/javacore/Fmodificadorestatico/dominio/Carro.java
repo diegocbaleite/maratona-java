@@ -1,4 +1,4 @@
-package academy.maratona.javacore.Fmodificadorestatico.domain;
+package academy.maratona.javacore.Fmodificadorestatico.dominio;
 
 public class Carro {
     private String nome;

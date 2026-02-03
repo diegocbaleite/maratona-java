@@ -1,6 +1,6 @@
 package academy.maratona.javacore.Fmodificadorestatico.test;
 
-import academy.maratona.javacore.Fmodificadorestatico.domain.Anime;
+import academy.maratona.javacore.Fmodificadorestatico.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
