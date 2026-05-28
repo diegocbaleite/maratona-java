@@ -1,7 +1,7 @@
 package academy.maratona.javacore.Isobrescrita.dominio;
 
 
-public class Anime extends Object{
+public class Anime {
     private String nome;
 
     @Override
